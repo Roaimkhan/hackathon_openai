@@ -1,0 +1,1 @@
+"""TableSwap FastAPI application."""
