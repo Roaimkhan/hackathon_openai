@@ -1,4 +1,3 @@
-````markdown
 # PlateSwap
 
 PlateSwap is an AI-powered community platform that lets neighbors exchange homemade meals with one another.
@@ -205,4 +204,3 @@ Without an API key, PlateSwap continues to function, but AI-powered meal underst
 ---
 
 For a deeper look at the system architecture, API structure, and application design, see **ARCHITECTURE.md**.
-````
